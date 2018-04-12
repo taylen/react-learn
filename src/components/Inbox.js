@@ -4,8 +4,8 @@ import {
   Link
 } from 'react-router-dom';
 
-import logo from './logo.svg';
-import './App.css';
+import logo from '../images/logo.svg';
+import '../styles/App.css';
 
 class Inbox extends Component {
   render() {
