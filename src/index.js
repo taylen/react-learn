@@ -10,6 +10,7 @@ import App from './components/App';
 import About from './components/About';
 import Inbox from './components/Inbox';
 import './styles/index.css';
+
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDom.render((
